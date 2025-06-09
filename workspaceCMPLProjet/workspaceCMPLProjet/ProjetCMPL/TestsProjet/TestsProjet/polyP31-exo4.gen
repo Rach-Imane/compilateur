@@ -1,0 +1,11 @@
+FICHIER C:\Users\imane\git\projetcmpl\workspaceCMPLProjet\workspaceCMPLProjet\ProjetCMPL\TestsProjet\TestsProjet\polyP31-exo4.gen : 
+
+   1  reserver        3
+   3  reserver        0
+   5  lirent    
+   6  affecterg       0
+   8  empiler        -1
+  10  ecrent    
+  11  contenug        0
+  13  ecrent    
+  14  arret     

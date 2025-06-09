@@ -1,0 +1,42 @@
+FICHIER polyP31-exo5.gen : 
+
+   1  reserver        5
+   3  reserver        0
+   5  lirent    
+   6  affecterg       0
+   8  lirent    
+   9  affecterg       2
+  11  empiler         0
+  13  affecterg       3
+  15  contenug        0
+  17  affecterg       1
+  19  contenug        1
+  21  inf       
+  22  empiler         0
+  24  inf       
+  25  supeg     
+  26  bsifaux        56
+  28  lirent    
+  29  affecterg       4
+  31  contenug        4
+  33  inf       
+  34  contenug        3
+  36  inf       
+  37  contenug        2
+  39  inf       
+  40  mul       
+  41  inf       
+  42  add       
+  43  affecterg       3
+  45  contenug        1
+  47  inf       
+  48  empiler         1
+  50  inf       
+  51  sous      
+  52  affecterg       1
+  54  bincond        19
+  56  contenug        2
+  58  ecrent    
+  59  contenug        3
+  61  ecrent    
+  62  arret     
